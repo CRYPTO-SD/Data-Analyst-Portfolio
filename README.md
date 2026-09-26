@@ -11,16 +11,12 @@ This repository contains various data analytics projects where I apply data clea
 📈 Visualizations & Dashboards – Creating meaningful reports for data-driven decision-making.
 🛠 Tools Used – SQL, Python (Pandas, Matplotlib, Seaborn), Excel, Power BI, and more.
 
-📂 Projects Included
+📂 Stuffs done in this:
+
 🌍 World Population Analysis
 Analyzed global population trends using Python and Pandas.
 Cleaned and processed raw data, handled missing values, and performed statistical analysis.
 Created visualizations (heatmaps, box plots) using Matplotlib and Seaborn to identify key insights.
-
-📞 Customer Data Cleaning
-Processed a customer call list dataset using Pandas, standardizing names, phone numbers, and addresses.
-Removed duplicates, handled missing values, and split unstructured address data into structured fields.
-Filtered "Do Not Contact" customers and optimized the dataset for further analysis.
 
 🗃 SQL Data Cleaning & Exploration
 Utilized SQL queries to clean and transform raw data for better usability.
